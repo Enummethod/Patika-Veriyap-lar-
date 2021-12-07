@@ -3,12 +3,4 @@
 
 # Örnek: root x'dir. root'un sağından y bulunur. Solunda z bulunur vb.
 
-                  ........[7]......
-                  ↓               ↓
-         ........[5].......       [8]..........
-         ↓                ↓                   ↓
- .......[1].......       [6]                 [9]
- ↓               ↓                                 
-[0]      .......[3].......                        
-         ↓               ↓                      
-        [2]             [4]                      
+![BSTP](https://user-images.githubusercontent.com/80968031/145096253-6f67f507-f04a-4b41-8859-7898457c5dd8.jpg)
